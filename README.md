@@ -18,6 +18,7 @@ _If the PR provides a solution for a particular issue(marked with "hacktoberfest
 **Instructions**
 - The extension of the file can be of any **Programming Language**. This means solution can be implemented in any **Programming Language**
 - Put your solution in a folder. And the name of the folder should be **the name of the algorithm**
+- While opening your PR, name your PR as **name of the algorithm and programming language used**
 
 Let's start by forking this repository<br />
 [ Forking or Fork means cloning or copying someones's repository into your own account ]
