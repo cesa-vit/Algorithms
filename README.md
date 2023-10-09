@@ -13,7 +13,12 @@
 _The contributors are required to submit meaningful PR's_ \
 _If the PR provides a solution for a particular issue(marked with "hacktoberfest" label) then that PR will be accepted and will be marked with a label of "hacktoberfest-accepted"._
 
-### Getting started... <br />
+### Getting started 
+
+**Instructions**
+- The extension of the file can be of any **Programming Language**. This means solution can be implemented in any **Programming Language**
+- Put your solution in a folder. And the name of the folder should be **the name of the algorithm**
+
 Let's start by forking this repository<br />
 [ Forking or Fork means cloning or copying someones's repository into your own account ]
 - Click on the fork button on the top right corner of the repository.
@@ -45,6 +50,7 @@ The changes are only known by us, but the upstream url i.e the place where we fo
 - To check which branch we are at currently, run `git branch` <br />we should now see all the branches and the branch which we're at, will have `*`
 - Let's go to our repository on the GitHub and we should see a button “Compare & pull request” and click it.
 > Congratulations, you have successfully opened a PR.<br /> The PR will get accepted if you have provided the feasible solution.
+
 
 
 **Thank you so much! Keep learning and growing. Enjoy to the fullest**
